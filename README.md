@@ -1,6 +1,4 @@
 # Hate-Speech-Detection
 
-Main File is maincode.ipynb
+All the details have been given in maincode.ipynb
 Try to run it in Google Colab.
-
-It is my learning project of NLP. so, there are lot of things to improve in this project. 
